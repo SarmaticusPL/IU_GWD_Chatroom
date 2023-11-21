@@ -54,6 +54,7 @@
             <input type="password" placeholder="Passwort" name="pw">
             <input type="submit" value="Einloggen">
         </form>
+blabla
     </div>
     <a href="registrierung.php">Registrieren</a>
 </div>
